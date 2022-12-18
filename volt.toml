@@ -1,10 +1,11 @@
 name = "lapce-pyright"
-version = "0.1.0"
+version = "0.1.1"
 author = "abreumatheus"
 display-name = "Python (pyright)"
 description = "Pyright LSP for the Lapce editor."
 wasm = "bin/lapce-pyright.wasm"
 icon = "assets/icon.png"
+repository = "https://github.com/abreumatheus/lapce-pyright"
 
 [activation]
 language = ["python"]
